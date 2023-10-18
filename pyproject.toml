@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "manage-new-project-newest"
+version = "0.1.0"
+description = "managing a new project"
+authors = ["Dan Nelson <danelson@nwi.net>"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

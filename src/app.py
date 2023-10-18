@@ -1,7 +1,3 @@
-# manage-new-project-newest
-##how to start a new project
-
-
 open github.com/danelson813/<new-project>.git 
 create a new repo
 add License-MIT
@@ -20,4 +16,4 @@ open terminal
     poetry env use python ##.##
     poetry add <module>
 
- poetry install   
+    
